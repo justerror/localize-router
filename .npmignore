@@ -10,19 +10,6 @@ build.xml
 #################
 
 node_modules/*
-npm-debug.log
-*.ts
-!*.d.ts
-tests
-coverage
-config
-karma.conf.js
-webpack.config.js
-tsconfig.json
-tslint.json
-CODE_OF_CONDUCT.md
-package-lock.json
-.*
 
 ############
 ## Windows
